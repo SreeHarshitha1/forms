@@ -1,0 +1,77 @@
+<html>
+    <body bgcolor="beige">
+        <center>
+        <form>
+        <table border="1">
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    <input type="text">
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    Phone number
+                </th>
+                <th>
+                    <input type="number">
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    Vegetables
+                </th>
+                <th>
+                    <input type="checkbox">Carrot</input>
+                    <input type="checkbox">Brocolli</input>
+                    <input type="checkbox">Tomato</input>
+                    <input type="checkbox">Potato</input>
+                    <input type="checkbox">Onion</input>
+                    <input type="checkbox">Brinjal</input>
+                </th>
+            </tr>
+            <tr>
+                <th>Fruits</th>
+                <th>
+                    <input type="checkbox">Apple</input>
+                    <input type="checkbox">oranges</input>
+                    <input type="checkbox">Water Melon</input>
+                    <input type="checkbox">Berries</input>
+                    <input type="checkbox">Sapota</input>
+                    <input type="checkbox">Banana</input>
+
+                </th>
+            </tr>
+            <tr>
+                <th>Things</th>
+                <th>
+                    <input type="checkbox">Detergent</input>
+                    <input type="checkbox">Bucket</input>
+                    <input type="checkbox">Napkins</input>
+                    <input type="checkbox">Brushes</input>
+                    <input type="checkbox">Tissues</input>
+                    <input type="checkbox">Soaps</input>
+                </th>
+            </tr>
+            <tr>
+                <th>Snacks</th>
+                <th>
+                    <input type="checkbox">Icecream</input>
+                    <input type="checkbox">Chips</input>
+                    <input type="checkbox">Biscuits</input>
+                    <input type="checkbox">Cookies</input>
+                    <input type="checkbox">Dry Fruits</input>
+                    <input type="checkbox">Oats</input>
+
+                </th>
+            </tr>
+           
+        </table>
+        <button type="submit">submit</button>
+        <button type="reset">Reset</button
+        </center>
+    </form>
+    </body>
+</html>
